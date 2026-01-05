@@ -1,16 +1,27 @@
-## Hi there 👋
+## Demecode
 
-<!--
-**demecode/demecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Current Project - LayerX (LLM-powered Semantic Analytics Platform)
 
-Here are some ideas to get you started:
+Programming languages I know
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Spark
+Python
+Java
+Daml
+
+Languages and Tools:
+
+ aws  azure  gcp  git  hive  linux  mssql  mysql  pandas  postgresql python  scala  scikit_learn
+
+Programmers I like
+
+Dan Shiffman (The Coding Train)
+Allen Webster (Mr. 4th)
+Ryan Fleury
+Javidx9 (One Lone Coder)
+Sebastian Lague
+jdh
+Tantan
+CodeParade
+Fergus Griggs
+Matt's Ramblings
