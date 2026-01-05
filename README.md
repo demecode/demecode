@@ -1,27 +1,37 @@
-## Demecode
+##  Demecode
 
-Current Project - LayerX (LLM-powered Semantic Analytics Platform)
+### 🚧 Current Project
+**LayerX — LLM-Powered Semantic Analytics Platform**
 
-Programming languages I know
+A governed analytics system that converts natural language questions into **dbt-backed metrics and charts**, with strict guardrails (no raw SQL, no hallucinations).
 
-Spark
-Python
-Java
-Daml
+---
 
-Languages and Tools:
+### 🧑‍💻 Programming Languages
+- Python  
+- Java  
+- Scala  
+- DAML  
+- Apache Spark  
 
- aws  azure  gcp  git  hive  linux  mssql  mysql  pandas  postgresql python  scala  scikit_learn
+---
 
-Programmers I like
+### 🛠 Languages & Tools
+- **Cloud:** AWS, Azure, GCP  
+- **Data:** Databricks, Hive, Pandas, PostgreSQL, MySQL, MSSQL  
+- **ML / Analytics:** scikit-learn  
+- **Engineering:** Git, Linux  
 
-Dan Shiffman (The Coding Train)
-Allen Webster (Mr. 4th)
-Ryan Fleury
-Javidx9 (One Lone Coder)
-Sebastian Lague
-jdh
-Tantan
-CodeParade
-Fergus Griggs
-Matt's Ramblings
+---
+
+### 🎥 Programmers & Creators I Follow
+- **Dan Shiffman** — *The Coding Train*  
+- **Allen Webster** — *Mr. 4th*  
+- **Ryan Fleury**  
+- **Javidx9** — *One Lone Coder*  
+- **Sebastian Lague**  
+- **jdh**  
+- **Tantan**  
+- **CodeParade**  
+- **Fergus Griggs**  
+- **Matt's Ramblings**  
